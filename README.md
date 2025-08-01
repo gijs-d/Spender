@@ -1,5 +1,7 @@
 # Spender App - Personal Finance Manager
 
+This project is hosted on [GitHub Pages](https://gijs-d.github.io/Spender-App-Personal-Finance-Manager/).
+
 Spender is a React expense tracker app built to help you manage your finances efficiently. It allows you to record income and expenses, categorize transactions, and view summaries for better financial planning.
 
 ## Features
